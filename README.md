@@ -51,7 +51,7 @@ Smart Rockets is an innovative visual simulation that demonstrates the power of 
 1. Download Processing from [processing.org](https://processing.org/download/)
 2. Clone the repository:
    ```bash
-   git clone https://github.com/DJDavidNY/genetic-rockets.git
+   git clone https://github.com/DJDavidNY/Smart_Rockets.git
    ```
 3. Open the project file in Processing
 4. Click "Run" to launch the simulation
